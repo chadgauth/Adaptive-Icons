@@ -57,6 +57,9 @@
     <item component="ComponentInfo{com.android.mms/.ui.BootActivity}" drawable="messages" />
     <item component="ComponentInfo{com.android.settings/.Settings}" drawable="settings" />
 
+    <!-- Essential -->
+    <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="essential_camera" />
+
     <!-- Mediatek -->
     <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="camera" />
     <item component="ComponentInfo{com.mediatek.filemanager/.FileManagerOperationActivity}" drawable="files" />
